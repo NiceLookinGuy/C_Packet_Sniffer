@@ -1,4 +1,4 @@
-# C_Packet_Sniffer
+# C_Packet_Sniffer Linux
 Console packet sniffer written on C for Linux.
 
 How to use:
